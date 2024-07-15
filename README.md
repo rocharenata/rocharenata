@@ -4,7 +4,7 @@
 - Atualmente no terceiro semestre de Análise e Desenvolvimento de Sistemas, focando na transição de carreira para programação.
 - Conhecimentos iniciais em Python, C, com ênfase em lógica de programação.
 - Experiência em desenvolvimento front-end utilizando JavaScript, HTML e CSS.
-- Familiaridade com frameworks como React e Next.js para criação de interfaces de usuário dinâmicas e otimizadas.
+- Familiaridade com frameworks como React e Next.js.
 - Estudo em andamento em JavaScript/Node.js e Java para desenvolvimento de aplicações backend.
 - Habilidade em administração de servidores.
 - Objetivo de longo prazo: se tornar uma desenvolvedora full stack capaz de integrar eficientemente front-end e backend.
