@@ -9,5 +9,3 @@
 - Habilidade em administração de servidores.
 - Objetivo de longo prazo: se tornar uma desenvolvedora full stack capaz de integrar eficientemente front-end e backend.
 - Interesse em contribuir para projetos que exigem habilidades versáteis e uma abordagem integrada ao desenvolvimento de software.
-
-Estou animada para continuar minha jornada na tecnologia e contribuir com soluções inovadoras!
