@@ -7,5 +7,6 @@
 - Familiaridade com frameworks como React e Next.js.
 - Estudo em andamento em JavaScript/Node.js e Java para desenvolvimento de aplicações backend.
 - Habilidade em administração de servidores.
+- Atualmente desenvolvendo um portfólio.
 - Objetivo de longo prazo: se tornar uma desenvolvedora full stack capaz de integrar eficientemente front-end e backend.
 - Interesse em contribuir para projetos que exigem habilidades versáteis e uma abordagem integrada ao desenvolvimento de software.
