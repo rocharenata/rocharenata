@@ -1,7 +1,7 @@
 ## Olá 👋, Sou Renata Rocha
 
 - Formada em Administração de Empresas com 10 anos de experiência no setor hoteleiro.
-- Inglês avançado, com capacidade de comunicação eficaz tanto verbalmente quanto por escrito.
+- Inglês avançado, com capacidade de comunicação e escrita.
 - Cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas, focando na transição de carreira para programação.
 - Conhecimentos iniciais em Python, C, com ênfase em lógica de programação.
 - Habilidades em desenvolvimento front-end utilizando JavaScript, HTML e CSS.
