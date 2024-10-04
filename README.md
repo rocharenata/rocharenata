@@ -1,15 +1,11 @@
 ## Olá 👋, Sou Renata Rocha
+Desenvolvedora full stack, com capacidade para integrar de forma eficiente as camadas de front-end e back-end.
+Interesse em contribuir para projetos que exigem habilidades versáteis e uma abordagem integrada ao desenvolvimento de software.
+
 - Formada em Administração de Empresas com 10 anos de experiência no setor hoteleiro.
 - Inglês avançado, com capacidade de comunicação e escrita.
-- Cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas, focando na transição de carreira para programação.
-- Conhecimentos iniciais em Python, C, com ênfase em lógica de programação.
-- Habilidades em desenvolvimento front-end utilizando  HTML,CSS, Javascript e PHP.
-- Habilidades em desenvolvimento back-end utilizando NodeJS.
-- estudo em andamento de PHP.
-- Conhecimento em integração com APIs Rest.
-- Desenvolvimento web com Framework Angular.
+- Cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas.
+- Habilidades em desenvolvimento front-end utilizando TypeScript, Angular.
+- Desenvolvimento para aplicações backend, com experiência em Java, Spring e PHP Laravel.
+- Conhecimento em Git e GitHub para controle de versão e colaboração em projetos.
 - Habilidade em administração de servidores.
-- Interesse em contribuir para projetos que exigem habilidades versáteis e uma abordagem integrada ao desenvolvimento de software.
-- Objetivo de longo prazo: tornar-me uma desenvolvedora full stack, com capacidade para integrar de forma eficiente as camadas de front-end e back-end.
-- Objetivo de longo prazo: tornar-me uma desenvolvedora full stack, com capacidade para integrar de forma eficiente as camadas de front-end e back-end.
-- Interesse em contribuir para projetos que exigem habilidades versáteis e uma abordagem integrada ao desenvolvimento de software.
