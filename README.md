@@ -1,5 +1,5 @@
 ## Olá 👋, Sou Renata Rocha
-Desenvolvedora full stack, com capacidade para integrar de forma eficiente as camadas de front-end e back-end.
+Desenvolvedora full stack, capaz de integrar eficientemente diversas camadas do sistema.
 Interesse em contribuir para projetos que exigem habilidades versáteis e uma abordagem integrada ao desenvolvimento de software.
 
 - Formada em Administração de Empresas com 10 anos de experiência no setor hoteleiro.
