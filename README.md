@@ -9,3 +9,4 @@ Interesse em contribuir para projetos que exigem habilidades versáteis e uma ab
 - Desenvolvimento para aplicações backend, com experiência em Java, Spring e PHP Laravel.
 - Conhecimento em Git e GitHub para controle de versão e colaboração em projetos.
 - Habilidade em administração de servidores.
+- Manipulação de Banco de Dados e Consultas SQL.
